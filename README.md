@@ -13,7 +13,7 @@
 ![Java](https://img.shields.io/badge/-Java-d70000?logo=java&logoColor=ffffff)
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/ugurcemderdimet?tab=repositories](https://github.com/anilcanboga?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/ugurcemderdimet?tab=repositories](https://github.com/ugurcemderdimet?tab=repositories)
 
 <!-- - 📫 How to reach me **#** -->
 
