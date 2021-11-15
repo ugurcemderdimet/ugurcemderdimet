@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ugur Cem Derdimet</h1>
 <h4 align="left">Hello everyone, I am a MSc.Software Engineer.</h4>
+<h4 align="left">I graduated from Beykent University for bachelor's degree.</h4>
+<h4 align="left">I graduated from Yildiz Technical University for master's degree.</h4>
+<h4 align="left">I work at FCB Health Reaktor as a React.js Developer</h4>
 
 
 <h3>Languages and Tools 🛠 </h3>
