@@ -9,7 +9,7 @@
 
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Nodejs-yellowgreen?style=flat-square&logo=react&logoColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Nodejs-yellowgreen?style=flat-square&logo=node&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-brightgreen?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
